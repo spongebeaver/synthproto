@@ -1,0 +1,3456 @@
+
+{
+	"gui" : 
+	{
+		"connections" : [],
+		"handle" : 159037468,
+		"height" : 627,
+		"modules" : 
+		[
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"Id" : 1,
+						"default" : "1"
+					},
+					
+					{
+						"default" : "1"
+					}
+				],
+				"connections" : [],
+				"handle" : 600043294,
+				"modules" : 
+				[
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 10,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 13,
+								"default" : "0"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : "Semitone"
+							},
+							
+							{
+								"Id" : 11,
+								"default" : ""
+							}
+						],
+						"handle" : 1560987071,
+						"pb" : 155,
+						"pl" : 48,
+						"pr" : 115,
+						"pt" : 115,
+						"type" : "SE List Entry"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 10,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 13,
+								"default" : "0"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : "Semitone"
+							},
+							
+							{
+								"Id" : 11,
+								"default" : ""
+							}
+						],
+						"handle" : 615959857,
+						"pb" : 291,
+						"pl" : 49,
+						"pr" : 116,
+						"pt" : 251,
+						"type" : "SE List Entry"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"default" : "OSC1"
+							}
+						],
+						"handle" : 706726910,
+						"pb" : 175,
+						"pl" : 29,
+						"pr" : 215,
+						"pt" : 43,
+						"type" : "SE Panel Group"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"default" : "OSC2"
+							}
+						],
+						"handle" : 1283841768,
+						"pb" : 316,
+						"pl" : 30,
+						"pr" : 216,
+						"pt" : 177,
+						"type" : "SE Panel Group"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"default" : "TUNE"
+							}
+						],
+						"handle" : 332628293,
+						"pb" : 339,
+						"pl" : 18,
+						"pr" : 230,
+						"pt" : 21,
+						"type" : "SE Panel Group"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 10,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 13,
+								"default" : "0"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : "Octave"
+							},
+							
+							{
+								"Id" : 11,
+								"default" : ""
+							}
+						],
+						"handle" : 82298503,
+						"pb" : 242,
+						"pl" : 48,
+						"pr" : 115,
+						"pt" : 202,
+						"type" : "SE List Entry"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "3"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							},
+							
+							{
+								"Id" : 16,
+								"default" : "Fine"
+							}
+						],
+						"handle" : 1385582658,
+						"pb" : 273,
+						"pl" : 139,
+						"pr" : 171,
+						"pt" : 225,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 10,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 13,
+								"default" : "0"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : "Octave"
+							},
+							
+							{
+								"Id" : 11,
+								"default" : ""
+							}
+						],
+						"handle" : 1579527415,
+						"pb" : 106,
+						"pl" : 48,
+						"pr" : 115,
+						"pt" : 66,
+						"type" : "SE List Entry"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "3"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							},
+							
+							{
+								"Id" : 16,
+								"default" : "Fine"
+							}
+						],
+						"handle" : 373376609,
+						"pb" : 140,
+						"pl" : 138,
+						"pr" : 170,
+						"pt" : 92,
+						"type" : "SE Slider"
+					}
+				],
+				"pb" : 514,
+				"pl" : 11,
+				"pr" : 223,
+				"pt" : 196,
+				"type" : "Container"
+			},
+			
+			{
+				"handle" : 202748170,
+				"pb" : 628,
+				"pl" : 0,
+				"pr" : 865,
+				"pt" : 528,
+				"type" : "SE Keyboard (MIDI)"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"Id" : 1,
+						"default" : "1"
+					},
+					
+					{
+						"default" : "1"
+					}
+				],
+				"connections" : [],
+				"handle" : 1053197039,
+				"modules" : 
+				[
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							}
+						],
+						"connections" : [],
+						"handle" : 1546023624,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"default" : "PITCH"
+									}
+								],
+								"handle" : 1775285819,
+								"pb" : 93,
+								"pl" : 21,
+								"pr" : 132,
+								"pt" : 15,
+								"type" : "SE Panel Group"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 13,
+										"parameterId" : 0
+									},
+									
+									{
+										"Id" : 15,
+										"default" : "2"
+									},
+									
+									{
+										"Id" : 14,
+										"default" : ""
+									},
+									
+									{
+										"Id" : 23,
+										"default" : "0"
+									}
+								],
+								"handle" : 1475254730,
+								"pb" : 74,
+								"pl" : 67,
+								"pr" : 118,
+								"pt" : 33,
+								"type" : "SE Slider"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 13,
+										"parameterId" : 0
+									},
+									
+									{
+										"Id" : 15,
+										"default" : "5"
+									},
+									
+									{
+										"Id" : 14,
+										"default" : ""
+									},
+									
+									{
+										"Id" : 23,
+										"default" : "0"
+									}
+								],
+								"handle" : 2043945981,
+								"pb" : 74,
+								"pl" : 44,
+								"pr" : 62,
+								"pt" : 28,
+								"type" : "SE Slider"
+							}
+						],
+						"pb" : 123,
+						"pl" : 158,
+						"pr" : 269,
+						"pt" : 45,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							}
+						],
+						"connections" : [],
+						"handle" : 1921504853,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"default" : "CUTOFF"
+									}
+								],
+								"handle" : 1781608569,
+								"pb" : 93,
+								"pl" : 21,
+								"pr" : 132,
+								"pt" : 15,
+								"type" : "SE Panel Group"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 13,
+										"parameterId" : 0
+									},
+									
+									{
+										"Id" : 15,
+										"default" : "2"
+									},
+									
+									{
+										"Id" : 14,
+										"default" : ""
+									},
+									
+									{
+										"Id" : 23,
+										"default" : "0"
+									}
+								],
+								"handle" : 935575062,
+								"pb" : 74,
+								"pl" : 67,
+								"pr" : 118,
+								"pt" : 33,
+								"type" : "SE Slider"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 13,
+										"parameterId" : 0
+									},
+									
+									{
+										"Id" : 15,
+										"default" : "5"
+									},
+									
+									{
+										"Id" : 14,
+										"default" : ""
+									},
+									
+									{
+										"Id" : 23,
+										"default" : "0"
+									}
+								],
+								"handle" : 677483718,
+								"pb" : 74,
+								"pl" : 44,
+								"pr" : 62,
+								"pt" : 28,
+								"type" : "SE Slider"
+							}
+						],
+						"pb" : 207,
+						"pl" : 159,
+						"pr" : 270,
+						"pt" : 129,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							}
+						],
+						"connections" : [],
+						"handle" : 248776325,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"default" : "LFO"
+									}
+								],
+								"handle" : 1815776804,
+								"pb" : 221,
+								"pl" : 25,
+								"pr" : 288,
+								"pt" : 15,
+								"type" : "SE Panel Group"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "1"
+									},
+									
+									{
+										"default" : "1"
+									},
+									
+									{
+										"default" : "0"
+									}
+								],
+								"connections" : 
+								[
+									
+									{
+										"fMod" : 808652049,
+										"fPin" : 8,
+										"tMod" : 829185836
+									},
+									
+									{
+										"fMod" : 808652049,
+										"fPin" : 8,
+										"tMod" : 254371171
+									},
+									
+									{
+										"fMod" : 808652049,
+										"fPin" : 9,
+										"tMod" : 2037065697,
+										"tPin" : 6
+									},
+									
+									{
+										"fMod" : 808652049,
+										"fPin" : 9,
+										"tMod" : 829185836,
+										"tPin" : 3
+									},
+									
+									{
+										"fMod" : 808652049,
+										"fPin" : 9,
+										"tMod" : 254371171,
+										"tPin" : 3
+									},
+									
+									{
+										"fMod" : 808652049,
+										"fPin" : 9,
+										"tMod" : 1780289407,
+										"tPin" : 3
+									},
+									
+									{
+										"fMod" : 808652049,
+										"fPin" : 10,
+										"tMod" : 2037065697,
+										"tPin" : 7
+									},
+									
+									{
+										"fMod" : 808652049,
+										"fPin" : 10,
+										"tMod" : 829185836,
+										"tPin" : 4
+									},
+									
+									{
+										"fMod" : 808652049,
+										"fPin" : 10,
+										"tMod" : 254371171,
+										"tPin" : 4
+									},
+									
+									{
+										"fMod" : 808652049,
+										"fPin" : 10,
+										"tMod" : 1780289407,
+										"tPin" : 4
+									},
+									
+									{
+										"fMod" : 808652049,
+										"fPin" : 11,
+										"tMod" : 829185836,
+										"tPin" : 6
+									},
+									
+									{
+										"fMod" : 808652049,
+										"fPin" : 11,
+										"tMod" : 254371171,
+										"tPin" : 6
+									}
+								],
+								"handle" : 958878194,
+								"modules" : 
+								[
+									
+									{
+										"handle" : 808652049,
+										"type" : "SE PatchMemory Float"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"default" : "DEPTH"
+											},
+											
+											{
+												"default" : "heading 3"
+											},
+											
+											{
+												"default" : "0"
+											},
+											
+											{
+												"default" : "0"
+											}
+										],
+										"handle" : 2037065697,
+										"pb" : 115,
+										"pl" : 24,
+										"pr" : 72,
+										"pt" : 93,
+										"type" : "SE Text Entry4"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"Id" : 1,
+												"default" : "moog_knob_sm"
+											}
+										],
+										"handle" : 829185836,
+										"pb" : 105,
+										"pl" : 28,
+										"pr" : 69,
+										"pt" : 64,
+										"type" : "Image3"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"Id" : 1,
+												"default" : "shiny_cap_sm"
+											}
+										],
+										"handle" : 254371171,
+										"pb" : 105,
+										"pl" : 28,
+										"pr" : 69,
+										"pt" : 64,
+										"type" : "Image3"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"Id" : 1,
+												"default" : "moog_knob_sm_l2"
+											}
+										],
+										"handle" : 1780289407,
+										"pb" : 104,
+										"pl" : 28,
+										"pr" : 68,
+										"pt" : 64,
+										"type" : "SE ImageTinted XP"
+									}
+								],
+								"pb" : 91,
+								"pl" : 89,
+								"pr" : 137,
+								"pt" : 40,
+								"type" : "Container"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "1"
+									},
+									
+									{
+										"default" : "1"
+									},
+									
+									{
+										"default" : "0"
+									}
+								],
+								"connections" : 
+								[
+									
+									{
+										"fMod" : 1023,
+										"fPin" : 8,
+										"tMod" : 1797062073
+									},
+									
+									{
+										"fMod" : 1023,
+										"fPin" : 8,
+										"tMod" : 1418559212
+									},
+									
+									{
+										"fMod" : 1023,
+										"fPin" : 9,
+										"tMod" : 759259433,
+										"tPin" : 6
+									},
+									
+									{
+										"fMod" : 1023,
+										"fPin" : 9,
+										"tMod" : 1797062073,
+										"tPin" : 3
+									},
+									
+									{
+										"fMod" : 1023,
+										"fPin" : 9,
+										"tMod" : 1418559212,
+										"tPin" : 3
+									},
+									
+									{
+										"fMod" : 1023,
+										"fPin" : 9,
+										"tMod" : 697973347,
+										"tPin" : 3
+									},
+									
+									{
+										"fMod" : 1023,
+										"fPin" : 10,
+										"tMod" : 759259433,
+										"tPin" : 7
+									},
+									
+									{
+										"fMod" : 1023,
+										"fPin" : 10,
+										"tMod" : 1797062073,
+										"tPin" : 4
+									},
+									
+									{
+										"fMod" : 1023,
+										"fPin" : 10,
+										"tMod" : 1418559212,
+										"tPin" : 4
+									},
+									
+									{
+										"fMod" : 1023,
+										"fPin" : 10,
+										"tMod" : 697973347,
+										"tPin" : 4
+									},
+									
+									{
+										"fMod" : 1023,
+										"fPin" : 11,
+										"tMod" : 1797062073,
+										"tPin" : 6
+									},
+									
+									{
+										"fMod" : 1023,
+										"fPin" : 11,
+										"tMod" : 1418559212,
+										"tPin" : 6
+									}
+								],
+								"handle" : 6369,
+								"modules" : 
+								[
+									
+									{
+										"handle" : 1023,
+										"type" : "SE PatchMemory Float"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"default" : "RATE"
+											},
+											
+											{
+												"default" : "heading 3"
+											},
+											
+											{
+												"default" : "0"
+											},
+											
+											{
+												"default" : "0"
+											}
+										],
+										"handle" : 759259433,
+										"pb" : 115,
+										"pl" : 24,
+										"pr" : 72,
+										"pt" : 93,
+										"type" : "SE Text Entry4"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"Id" : 1,
+												"default" : "moog_knob_sm"
+											}
+										],
+										"handle" : 1797062073,
+										"pb" : 105,
+										"pl" : 28,
+										"pr" : 69,
+										"pt" : 64,
+										"type" : "Image3"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"Id" : 1,
+												"default" : "shiny_cap_sm"
+											}
+										],
+										"handle" : 1418559212,
+										"pb" : 105,
+										"pl" : 28,
+										"pr" : 69,
+										"pt" : 64,
+										"type" : "Image3"
+									},
+									
+									{
+										"Pins" : 
+										[
+											
+											{
+												"Id" : 1,
+												"default" : "moog_knob_sm_l2"
+											}
+										],
+										"handle" : 697973347,
+										"pb" : 104,
+										"pl" : 28,
+										"pr" : 68,
+										"pt" : 64,
+										"type" : "SE ImageTinted XP"
+									}
+								],
+								"pb" : 91,
+								"pl" : 41,
+								"pr" : 89,
+								"pt" : 40,
+								"type" : "Container"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 10,
+										"parameterId" : 0
+									},
+									
+									{
+										"Id" : 13,
+										"default" : "0"
+									},
+									
+									{
+										"Id" : 14,
+										"default" : "WAVEFORM"
+									},
+									
+									{
+										"Id" : 11,
+										"default" : ""
+									}
+								],
+								"handle" : 386638673,
+								"pb" : 136,
+								"pl" : 40,
+								"pr" : 140,
+								"pt" : 96,
+								"type" : "SE List Entry"
+							}
+						],
+						"pb" : 224,
+						"pl" : 26,
+						"pr" : 289,
+						"pt" : 18,
+						"type" : "Container"
+					}
+				],
+				"pb" : 225,
+				"pl" : 578,
+				"pr" : 841,
+				"pt" : 19,
+				"type" : "Container"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"Id" : 1,
+						"default" : "1"
+					},
+					
+					{
+						"default" : "1"
+					}
+				],
+				"connections" : [],
+				"handle" : 757897493,
+				"modules" : 
+				[
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "0"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 490457349,
+								"fPin" : 8,
+								"tMod" : 1792530931
+							},
+							
+							{
+								"fMod" : 490457349,
+								"fPin" : 8,
+								"tMod" : 849465377
+							},
+							
+							{
+								"fMod" : 490457349,
+								"fPin" : 9,
+								"tMod" : 775419714,
+								"tPin" : 3
+							},
+							
+							{
+								"fMod" : 490457349,
+								"fPin" : 9,
+								"tMod" : 1792530931,
+								"tPin" : 3
+							},
+							
+							{
+								"fMod" : 490457349,
+								"fPin" : 9,
+								"tMod" : 849465377,
+								"tPin" : 3
+							},
+							
+							{
+								"fMod" : 490457349,
+								"fPin" : 9,
+								"tMod" : 1006969051,
+								"tPin" : 6
+							},
+							
+							{
+								"fMod" : 490457349,
+								"fPin" : 10,
+								"tMod" : 775419714,
+								"tPin" : 4
+							},
+							
+							{
+								"fMod" : 490457349,
+								"fPin" : 10,
+								"tMod" : 1792530931,
+								"tPin" : 4
+							},
+							
+							{
+								"fMod" : 490457349,
+								"fPin" : 10,
+								"tMod" : 849465377,
+								"tPin" : 4
+							},
+							
+							{
+								"fMod" : 490457349,
+								"fPin" : 10,
+								"tMod" : 1006969051,
+								"tPin" : 7
+							},
+							
+							{
+								"fMod" : 490457349,
+								"fPin" : 11,
+								"tMod" : 1792530931,
+								"tPin" : 6
+							},
+							
+							{
+								"fMod" : 490457349,
+								"fPin" : 11,
+								"tMod" : 849465377,
+								"tPin" : 6
+							}
+						],
+						"handle" : 521256461,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"default" : "MIX"
+									},
+									
+									{
+										"default" : "heading 3"
+									},
+									
+									{
+										"default" : "0"
+									},
+									
+									{
+										"default" : "0"
+									}
+								],
+								"handle" : 1006969051,
+								"pb" : 99,
+								"pl" : 32,
+								"pr" : 97,
+								"pt" : 76,
+								"type" : "SE Text Entry4"
+							},
+							
+							{
+								"handle" : 490457349,
+								"type" : "SE PatchMemory Float"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "shiny_cap.png"
+									}
+								],
+								"handle" : 849465377,
+								"pb" : 89,
+								"pl" : 32,
+								"pr" : 97,
+								"pt" : 24,
+								"type" : "Image3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "moog_knob"
+									}
+								],
+								"handle" : 1792530931,
+								"pb" : 89,
+								"pl" : 32,
+								"pr" : 97,
+								"pt" : 24,
+								"type" : "Image3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "moog_knob_L2"
+									}
+								],
+								"handle" : 775419714,
+								"pb" : 88,
+								"pl" : 32,
+								"pr" : 96,
+								"pt" : 24,
+								"type" : "SE ImageTinted XP"
+							}
+						],
+						"pb" : 193,
+						"pl" : 180,
+						"pr" : 245,
+						"pt" : 118,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "0"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1304659790,
+								"fPin" : 8,
+								"tMod" : 1271542731
+							},
+							
+							{
+								"fMod" : 1304659790,
+								"fPin" : 8,
+								"tMod" : 1409053194
+							},
+							
+							{
+								"fMod" : 1304659790,
+								"fPin" : 9,
+								"tMod" : 613027464,
+								"tPin" : 3
+							},
+							
+							{
+								"fMod" : 1304659790,
+								"fPin" : 9,
+								"tMod" : 1271542731,
+								"tPin" : 3
+							},
+							
+							{
+								"fMod" : 1304659790,
+								"fPin" : 9,
+								"tMod" : 1409053194,
+								"tPin" : 3
+							},
+							
+							{
+								"fMod" : 1304659790,
+								"fPin" : 9,
+								"tMod" : 127291168,
+								"tPin" : 6
+							},
+							
+							{
+								"fMod" : 1304659790,
+								"fPin" : 10,
+								"tMod" : 613027464,
+								"tPin" : 4
+							},
+							
+							{
+								"fMod" : 1304659790,
+								"fPin" : 10,
+								"tMod" : 1271542731,
+								"tPin" : 4
+							},
+							
+							{
+								"fMod" : 1304659790,
+								"fPin" : 10,
+								"tMod" : 1409053194,
+								"tPin" : 4
+							},
+							
+							{
+								"fMod" : 1304659790,
+								"fPin" : 10,
+								"tMod" : 127291168,
+								"tPin" : 7
+							},
+							
+							{
+								"fMod" : 1304659790,
+								"fPin" : 11,
+								"tMod" : 1271542731,
+								"tPin" : 6
+							},
+							
+							{
+								"fMod" : 1304659790,
+								"fPin" : 11,
+								"tMod" : 1409053194,
+								"tPin" : 6
+							}
+						],
+						"handle" : 1184891296,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"default" : "SHAPE"
+									},
+									
+									{
+										"default" : "heading 3"
+									},
+									
+									{
+										"default" : "0"
+									},
+									
+									{
+										"default" : "0"
+									}
+								],
+								"handle" : 127291168,
+								"pb" : 99,
+								"pl" : 32,
+								"pr" : 97,
+								"pt" : 76,
+								"type" : "SE Text Entry4"
+							},
+							
+							{
+								"handle" : 1304659790,
+								"type" : "SE PatchMemory Float"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "shiny_cap.png"
+									}
+								],
+								"handle" : 1409053194,
+								"pb" : 89,
+								"pl" : 32,
+								"pr" : 97,
+								"pt" : 24,
+								"type" : "Image3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "moog_knob"
+									}
+								],
+								"handle" : 1271542731,
+								"pb" : 89,
+								"pl" : 32,
+								"pr" : 97,
+								"pt" : 24,
+								"type" : "Image3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "moog_knob_L2"
+									}
+								],
+								"handle" : 613027464,
+								"pb" : 88,
+								"pl" : 32,
+								"pr" : 96,
+								"pt" : 24,
+								"type" : "SE ImageTinted XP"
+							}
+						],
+						"pb" : 193,
+						"pl" : 265,
+						"pr" : 330,
+						"pt" : 118,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 10,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 13,
+								"default" : "0"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : "WAVEFORM"
+							},
+							
+							{
+								"Id" : 11,
+								"default" : ""
+							}
+						],
+						"handle" : 299750493,
+						"pb" : 109,
+						"pl" : 206,
+						"pr" : 304,
+						"pt" : 69,
+						"type" : "SE List Entry"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"default" : "OSC 1"
+							}
+						],
+						"handle" : 60821402,
+						"pb" : 211,
+						"pl" : 168,
+						"pr" : 349,
+						"pt" : 32,
+						"type" : "SE Panel Group"
+					}
+				],
+				"pb" : 201,
+				"pl" : 192,
+				"pr" : 373,
+				"pt" : 22,
+				"type" : "Container"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"Id" : 1,
+						"default" : "1"
+					},
+					
+					{
+						"default" : "1"
+					},
+					
+					{
+						"default" : "0"
+					}
+				],
+				"connections" : [],
+				"handle" : 1398982548,
+				"modules" : 
+				[
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "1"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							},
+							
+							{
+								"Id" : 16,
+								"default" : "ATTACK"
+							}
+						],
+						"handle" : 972875429,
+						"pb" : 206,
+						"pl" : 80,
+						"pr" : 137,
+						"pt" : 150,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "1"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							},
+							
+							{
+								"Id" : 16,
+								"default" : "RELEASE"
+							}
+						],
+						"handle" : 1070292134,
+						"pb" : 207,
+						"pl" : 299,
+						"pr" : 367,
+						"pt" : 151,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "1"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							},
+							
+							{
+								"Id" : 16,
+								"default" : "SUSTAIN"
+							}
+						],
+						"handle" : 625188255,
+						"pb" : 207,
+						"pl" : 224,
+						"pr" : 286,
+						"pt" : 151,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "1"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							},
+							
+							{
+								"Id" : 16,
+								"default" : "DECAY"
+							}
+						],
+						"handle" : 1783774698,
+						"pb" : 205,
+						"pl" : 155,
+						"pr" : 205,
+						"pt" : 149,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "0"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 2082357,
+								"fPin" : 8,
+								"tMod" : 1805592869
+							},
+							
+							{
+								"fMod" : 2082357,
+								"fPin" : 8,
+								"tMod" : 1296909146
+							},
+							
+							{
+								"fMod" : 2082357,
+								"fPin" : 9,
+								"tMod" : 1733206985,
+								"tPin" : 6
+							},
+							
+							{
+								"fMod" : 2082357,
+								"fPin" : 9,
+								"tMod" : 1805592869,
+								"tPin" : 3
+							},
+							
+							{
+								"fMod" : 2082357,
+								"fPin" : 9,
+								"tMod" : 1296909146,
+								"tPin" : 3
+							},
+							
+							{
+								"fMod" : 2082357,
+								"fPin" : 9,
+								"tMod" : 572276917,
+								"tPin" : 3
+							},
+							
+							{
+								"fMod" : 2082357,
+								"fPin" : 10,
+								"tMod" : 1733206985,
+								"tPin" : 7
+							},
+							
+							{
+								"fMod" : 2082357,
+								"fPin" : 10,
+								"tMod" : 1805592869,
+								"tPin" : 4
+							},
+							
+							{
+								"fMod" : 2082357,
+								"fPin" : 10,
+								"tMod" : 1296909146,
+								"tPin" : 4
+							},
+							
+							{
+								"fMod" : 2082357,
+								"fPin" : 10,
+								"tMod" : 572276917,
+								"tPin" : 4
+							},
+							
+							{
+								"fMod" : 2082357,
+								"fPin" : 11,
+								"tMod" : 1805592869,
+								"tPin" : 6
+							},
+							
+							{
+								"fMod" : 2082357,
+								"fPin" : 11,
+								"tMod" : 1296909146,
+								"tPin" : 6
+							}
+						],
+						"handle" : 1144710249,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"default" : "EG"
+									},
+									
+									{
+										"default" : "heading 3"
+									},
+									
+									{
+										"default" : "0"
+									},
+									
+									{
+										"default" : "0"
+									}
+								],
+								"handle" : 1733206985,
+								"pb" : 99,
+								"pl" : 32,
+								"pr" : 97,
+								"pt" : 76,
+								"type" : "SE Text Entry4"
+							},
+							
+							{
+								"handle" : 2082357,
+								"type" : "SE PatchMemory Float"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "shiny_cap.png"
+									}
+								],
+								"handle" : 1805592869,
+								"pb" : 89,
+								"pl" : 32,
+								"pr" : 97,
+								"pt" : 24,
+								"type" : "Image3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "moog_knob"
+									}
+								],
+								"handle" : 1296909146,
+								"pb" : 89,
+								"pl" : 32,
+								"pr" : 97,
+								"pt" : 24,
+								"type" : "Image3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "moog_knob_L2"
+									}
+								],
+								"handle" : 572276917,
+								"pb" : 88,
+								"pl" : 32,
+								"pr" : 96,
+								"pt" : 24,
+								"type" : "SE ImageTinted XP"
+							}
+						],
+						"pb" : 148,
+						"pl" : 575,
+						"pr" : 640,
+						"pt" : 73,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"default" : "FILTER EG"
+							}
+						],
+						"handle" : 2079530757,
+						"pb" : 228,
+						"pl" : 56,
+						"pr" : 391,
+						"pt" : 118,
+						"type" : "SE Panel Group"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"default" : "FILTER"
+							}
+						],
+						"handle" : 1131133217,
+						"pb" : 166,
+						"pl" : 402,
+						"pr" : 664,
+						"pt" : 44,
+						"type" : "SE Panel Group"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "0"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 348653182,
+								"fPin" : 8,
+								"tMod" : 1227700014
+							},
+							
+							{
+								"fMod" : 348653182,
+								"fPin" : 8,
+								"tMod" : 150083695
+							},
+							
+							{
+								"fMod" : 348653182,
+								"fPin" : 9,
+								"tMod" : 8406783,
+								"tPin" : 6
+							},
+							
+							{
+								"fMod" : 348653182,
+								"fPin" : 9,
+								"tMod" : 1227700014,
+								"tPin" : 3
+							},
+							
+							{
+								"fMod" : 348653182,
+								"fPin" : 9,
+								"tMod" : 150083695,
+								"tPin" : 3
+							},
+							
+							{
+								"fMod" : 348653182,
+								"fPin" : 9,
+								"tMod" : 121188613,
+								"tPin" : 3
+							},
+							
+							{
+								"fMod" : 348653182,
+								"fPin" : 10,
+								"tMod" : 8406783,
+								"tPin" : 7
+							},
+							
+							{
+								"fMod" : 348653182,
+								"fPin" : 10,
+								"tMod" : 1227700014,
+								"tPin" : 4
+							},
+							
+							{
+								"fMod" : 348653182,
+								"fPin" : 10,
+								"tMod" : 150083695,
+								"tPin" : 4
+							},
+							
+							{
+								"fMod" : 348653182,
+								"fPin" : 10,
+								"tMod" : 121188613,
+								"tPin" : 4
+							},
+							
+							{
+								"fMod" : 348653182,
+								"fPin" : 11,
+								"tMod" : 1227700014,
+								"tPin" : 6
+							},
+							
+							{
+								"fMod" : 348653182,
+								"fPin" : 11,
+								"tMod" : 150083695,
+								"tPin" : 6
+							}
+						],
+						"handle" : 1093125479,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"default" : "RES"
+									},
+									
+									{
+										"default" : "heading 3"
+									},
+									
+									{
+										"default" : "0"
+									},
+									
+									{
+										"default" : "0"
+									}
+								],
+								"handle" : 8406783,
+								"pb" : 99,
+								"pl" : 32,
+								"pr" : 97,
+								"pt" : 76,
+								"type" : "SE Text Entry4"
+							},
+							
+							{
+								"handle" : 348653182,
+								"type" : "SE PatchMemory Float"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "shiny_cap.png"
+									}
+								],
+								"handle" : 1227700014,
+								"pb" : 89,
+								"pl" : 32,
+								"pr" : 97,
+								"pt" : 24,
+								"type" : "Image3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "moog_knob"
+									}
+								],
+								"handle" : 150083695,
+								"pb" : 89,
+								"pl" : 32,
+								"pr" : 97,
+								"pt" : 24,
+								"type" : "Image3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "moog_knob_L2"
+									}
+								],
+								"handle" : 121188613,
+								"pb" : 88,
+								"pl" : 32,
+								"pr" : 96,
+								"pt" : 24,
+								"type" : "SE ImageTinted XP"
+							}
+						],
+						"pb" : 148,
+						"pl" : 498,
+						"pr" : 563,
+						"pt" : 73,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "0"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1197032800,
+								"fPin" : 8,
+								"tMod" : 1863719044
+							},
+							
+							{
+								"fMod" : 1197032800,
+								"fPin" : 8,
+								"tMod" : 1181819712
+							},
+							
+							{
+								"fMod" : 1197032800,
+								"fPin" : 9,
+								"tMod" : 1775282618,
+								"tPin" : 6
+							},
+							
+							{
+								"fMod" : 1197032800,
+								"fPin" : 9,
+								"tMod" : 1863719044,
+								"tPin" : 3
+							},
+							
+							{
+								"fMod" : 1197032800,
+								"fPin" : 9,
+								"tMod" : 1181819712,
+								"tPin" : 3
+							},
+							
+							{
+								"fMod" : 1197032800,
+								"fPin" : 9,
+								"tMod" : 1173263876,
+								"tPin" : 3
+							},
+							
+							{
+								"fMod" : 1197032800,
+								"fPin" : 10,
+								"tMod" : 1775282618,
+								"tPin" : 7
+							},
+							
+							{
+								"fMod" : 1197032800,
+								"fPin" : 10,
+								"tMod" : 1863719044,
+								"tPin" : 4
+							},
+							
+							{
+								"fMod" : 1197032800,
+								"fPin" : 10,
+								"tMod" : 1181819712,
+								"tPin" : 4
+							},
+							
+							{
+								"fMod" : 1197032800,
+								"fPin" : 10,
+								"tMod" : 1173263876,
+								"tPin" : 4
+							},
+							
+							{
+								"fMod" : 1197032800,
+								"fPin" : 11,
+								"tMod" : 1863719044,
+								"tPin" : 6
+							},
+							
+							{
+								"fMod" : 1197032800,
+								"fPin" : 11,
+								"tMod" : 1181819712,
+								"tPin" : 6
+							}
+						],
+						"handle" : 1965362749,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"default" : "CUTOFF"
+									},
+									
+									{
+										"default" : "heading 3"
+									},
+									
+									{
+										"default" : "0"
+									},
+									
+									{
+										"default" : "0"
+									}
+								],
+								"handle" : 1775282618,
+								"pb" : 99,
+								"pl" : 32,
+								"pr" : 97,
+								"pt" : 76,
+								"type" : "SE Text Entry4"
+							},
+							
+							{
+								"handle" : 1197032800,
+								"type" : "SE PatchMemory Float"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "shiny_cap.png"
+									}
+								],
+								"handle" : 1863719044,
+								"pb" : 89,
+								"pl" : 32,
+								"pr" : 97,
+								"pt" : 24,
+								"type" : "Image3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "moog_knob"
+									}
+								],
+								"handle" : 1181819712,
+								"pb" : 89,
+								"pl" : 32,
+								"pr" : 97,
+								"pt" : 24,
+								"type" : "Image3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "moog_knob_L2"
+									}
+								],
+								"handle" : 1173263876,
+								"pb" : 88,
+								"pl" : 32,
+								"pr" : 96,
+								"pt" : 24,
+								"type" : "SE ImageTinted XP"
+							}
+						],
+						"pb" : 149,
+						"pl" : 422,
+						"pr" : 487,
+						"pt" : 74,
+						"type" : "Container"
+					}
+				],
+				"pb" : 414,
+				"pl" : 232,
+				"pr" : 840,
+				"pt" : 230,
+				"type" : "Container"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"Id" : 1,
+						"default" : "1"
+					},
+					
+					{
+						"default" : "1"
+					}
+				],
+				"connections" : [],
+				"handle" : 967430642,
+				"modules" : 
+				[
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "0"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 545659892,
+								"fPin" : 8,
+								"tMod" : 217291040
+							},
+							
+							{
+								"fMod" : 545659892,
+								"fPin" : 8,
+								"tMod" : 927180377
+							},
+							
+							{
+								"fMod" : 545659892,
+								"fPin" : 9,
+								"tMod" : 661716277,
+								"tPin" : 6
+							},
+							
+							{
+								"fMod" : 545659892,
+								"fPin" : 9,
+								"tMod" : 217291040,
+								"tPin" : 3
+							},
+							
+							{
+								"fMod" : 545659892,
+								"fPin" : 9,
+								"tMod" : 927180377,
+								"tPin" : 3
+							},
+							
+							{
+								"fMod" : 545659892,
+								"fPin" : 9,
+								"tMod" : 1963767124,
+								"tPin" : 3
+							},
+							
+							{
+								"fMod" : 545659892,
+								"fPin" : 10,
+								"tMod" : 661716277,
+								"tPin" : 7
+							},
+							
+							{
+								"fMod" : 545659892,
+								"fPin" : 10,
+								"tMod" : 217291040,
+								"tPin" : 4
+							},
+							
+							{
+								"fMod" : 545659892,
+								"fPin" : 10,
+								"tMod" : 927180377,
+								"tPin" : 4
+							},
+							
+							{
+								"fMod" : 545659892,
+								"fPin" : 10,
+								"tMod" : 1963767124,
+								"tPin" : 4
+							},
+							
+							{
+								"fMod" : 545659892,
+								"fPin" : 11,
+								"tMod" : 217291040,
+								"tPin" : 6
+							},
+							
+							{
+								"fMod" : 545659892,
+								"fPin" : 11,
+								"tMod" : 927180377,
+								"tPin" : 6
+							}
+						],
+						"handle" : 496648837,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"default" : "TUNE"
+									},
+									
+									{
+										"default" : "heading 3"
+									},
+									
+									{
+										"default" : "0"
+									},
+									
+									{
+										"default" : "0"
+									}
+								],
+								"handle" : 661716277,
+								"pb" : 99,
+								"pl" : 32,
+								"pr" : 97,
+								"pt" : 76,
+								"type" : "SE Text Entry4"
+							},
+							
+							{
+								"handle" : 545659892,
+								"type" : "SE PatchMemory Float"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "shiny_cap.png"
+									}
+								],
+								"handle" : 217291040,
+								"pb" : 89,
+								"pl" : 32,
+								"pr" : 97,
+								"pt" : 24,
+								"type" : "Image3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "moog_knob"
+									}
+								],
+								"handle" : 927180377,
+								"pb" : 89,
+								"pl" : 32,
+								"pr" : 97,
+								"pt" : 24,
+								"type" : "Image3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "moog_knob_L2"
+									}
+								],
+								"handle" : 1963767124,
+								"pb" : 88,
+								"pl" : 32,
+								"pr" : 96,
+								"pt" : 24,
+								"type" : "SE ImageTinted XP"
+							}
+						],
+						"pb" : 190,
+						"pl" : 39,
+						"pr" : 104,
+						"pt" : 115,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "0"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 13327,
+								"fPin" : 8,
+								"tMod" : 962950790
+							},
+							
+							{
+								"fMod" : 13327,
+								"fPin" : 8,
+								"tMod" : 103103446
+							},
+							
+							{
+								"fMod" : 13327,
+								"fPin" : 9,
+								"tMod" : 1925382961,
+								"tPin" : 6
+							},
+							
+							{
+								"fMod" : 13327,
+								"fPin" : 9,
+								"tMod" : 962950790,
+								"tPin" : 3
+							},
+							
+							{
+								"fMod" : 13327,
+								"fPin" : 9,
+								"tMod" : 103103446,
+								"tPin" : 3
+							},
+							
+							{
+								"fMod" : 13327,
+								"fPin" : 9,
+								"tMod" : 1392867693,
+								"tPin" : 3
+							},
+							
+							{
+								"fMod" : 13327,
+								"fPin" : 10,
+								"tMod" : 1925382961,
+								"tPin" : 7
+							},
+							
+							{
+								"fMod" : 13327,
+								"fPin" : 10,
+								"tMod" : 962950790,
+								"tPin" : 4
+							},
+							
+							{
+								"fMod" : 13327,
+								"fPin" : 10,
+								"tMod" : 103103446,
+								"tPin" : 4
+							},
+							
+							{
+								"fMod" : 13327,
+								"fPin" : 10,
+								"tMod" : 1392867693,
+								"tPin" : 4
+							},
+							
+							{
+								"fMod" : 13327,
+								"fPin" : 11,
+								"tMod" : 962950790,
+								"tPin" : 6
+							},
+							
+							{
+								"fMod" : 13327,
+								"fPin" : 11,
+								"tMod" : 103103446,
+								"tPin" : 6
+							}
+						],
+						"handle" : 17954,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"default" : "VOLUME"
+									},
+									
+									{
+										"default" : "heading 3"
+									},
+									
+									{
+										"default" : "0"
+									},
+									
+									{
+										"default" : "0"
+									},
+									
+									{
+										"default" : "0"
+									},
+									
+									{
+										"Id" : 9,
+										"default" : "0"
+									}
+								],
+								"handle" : 1925382961,
+								"pb" : 99,
+								"pl" : 32,
+								"pr" : 97,
+								"pt" : 76,
+								"type" : "SE Text Entry4"
+							},
+							
+							{
+								"handle" : 13327,
+								"type" : "SE PatchMemory Float"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "shiny_cap.png"
+									}
+								],
+								"handle" : 962950790,
+								"pb" : 89,
+								"pl" : 32,
+								"pr" : 97,
+								"pt" : 24,
+								"type" : "Image3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "moog_knob"
+									}
+								],
+								"handle" : 103103446,
+								"pb" : 89,
+								"pl" : 32,
+								"pr" : 97,
+								"pt" : 24,
+								"type" : "Image3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "moog_knob_L2"
+									}
+								],
+								"handle" : 1392867693,
+								"pb" : 88,
+								"pl" : 32,
+								"pr" : 96,
+								"pt" : 24,
+								"type" : "SE ImageTinted XP"
+							}
+						],
+						"pb" : 117,
+						"pl" : 40,
+						"pr" : 105,
+						"pt" : 42,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "0"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 85519557,
+								"fPin" : 8,
+								"tMod" : 241280505
+							}
+						],
+						"handle" : 24167,
+						"modules" : 
+						[
+							
+							{
+								"handle" : 85519557,
+								"type" : "SE PatchMemory Float Out"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "bar_graph1.bmp"
+									},
+									
+									{
+										"Id" : 9,
+										"default" : "-2"
+									}
+								],
+								"handle" : 241280505,
+								"pb" : 83,
+								"pl" : 23,
+								"pr" : 51,
+								"pt" : 23,
+								"type" : "Image3"
+							}
+						],
+						"pb" : 144,
+						"pl" : 125,
+						"pr" : 153,
+						"pt" : 84,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"default" : "MASTER"
+							}
+						],
+						"handle" : 897352935,
+						"pb" : 202,
+						"pl" : 22,
+						"pr" : 168,
+						"pt" : 19,
+						"type" : "SE Panel Group"
+					}
+				],
+				"pb" : 193,
+				"pl" : 12,
+				"pr" : 158,
+				"pt" : 10,
+				"type" : "Container"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"Id" : 1,
+						"default" : "1"
+					},
+					
+					{
+						"default" : "1"
+					}
+				],
+				"connections" : [],
+				"handle" : 501797956,
+				"modules" : 
+				[
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "1"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							},
+							
+							{
+								"Id" : 16,
+								"default" : "RELEASE"
+							}
+						],
+						"handle" : 1525726088,
+						"pb" : 123,
+						"pl" : 270,
+						"pr" : 338,
+						"pt" : 67,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "1"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							},
+							
+							{
+								"Id" : 16,
+								"default" : "DECAY"
+							}
+						],
+						"handle" : 1228581133,
+						"pb" : 123,
+						"pl" : 128,
+						"pr" : 178,
+						"pt" : 67,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "1"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							},
+							
+							{
+								"Id" : 16,
+								"default" : "SUSTAIN"
+							}
+						],
+						"handle" : 1360905169,
+						"pb" : 123,
+						"pl" : 196,
+						"pr" : 258,
+						"pt" : 67,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 13,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 15,
+								"default" : "1"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : ""
+							},
+							
+							{
+								"Id" : 23,
+								"default" : "0"
+							},
+							
+							{
+								"Id" : 16,
+								"default" : "ATTACK"
+							}
+						],
+						"handle" : 945644027,
+						"pb" : 122,
+						"pl" : 53,
+						"pr" : 110,
+						"pt" : 66,
+						"type" : "SE Slider"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"default" : "AMP EG"
+							}
+						],
+						"handle" : 70398143,
+						"pb" : 139,
+						"pl" : 28,
+						"pr" : 361,
+						"pt" : 37,
+						"type" : "SE Panel Group"
+					}
+				],
+				"pb" : 299,
+				"pl" : 232,
+				"pr" : 565,
+				"pt" : 197,
+				"type" : "Container"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"Id" : 1,
+						"default" : "1"
+					},
+					
+					{
+						"default" : "1"
+					}
+				],
+				"connections" : [],
+				"handle" : 332549314,
+				"modules" : 
+				[
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "0"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 1560502486,
+								"fPin" : 8,
+								"tMod" : 38603485
+							},
+							
+							{
+								"fMod" : 1560502486,
+								"fPin" : 8,
+								"tMod" : 1273249375
+							},
+							
+							{
+								"fMod" : 1560502486,
+								"fPin" : 9,
+								"tMod" : 1879099534,
+								"tPin" : 6
+							},
+							
+							{
+								"fMod" : 1560502486,
+								"fPin" : 9,
+								"tMod" : 38603485,
+								"tPin" : 3
+							},
+							
+							{
+								"fMod" : 1560502486,
+								"fPin" : 9,
+								"tMod" : 1273249375,
+								"tPin" : 3
+							},
+							
+							{
+								"fMod" : 1560502486,
+								"fPin" : 9,
+								"tMod" : 797919920,
+								"tPin" : 3
+							},
+							
+							{
+								"fMod" : 1560502486,
+								"fPin" : 10,
+								"tMod" : 1879099534,
+								"tPin" : 7
+							},
+							
+							{
+								"fMod" : 1560502486,
+								"fPin" : 10,
+								"tMod" : 38603485,
+								"tPin" : 4
+							},
+							
+							{
+								"fMod" : 1560502486,
+								"fPin" : 10,
+								"tMod" : 1273249375,
+								"tPin" : 4
+							},
+							
+							{
+								"fMod" : 1560502486,
+								"fPin" : 10,
+								"tMod" : 797919920,
+								"tPin" : 4
+							},
+							
+							{
+								"fMod" : 1560502486,
+								"fPin" : 11,
+								"tMod" : 38603485,
+								"tPin" : 6
+							},
+							
+							{
+								"fMod" : 1560502486,
+								"fPin" : 11,
+								"tMod" : 1273249375,
+								"tPin" : 6
+							}
+						],
+						"handle" : 748000862,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"default" : "MIX"
+									},
+									
+									{
+										"default" : "heading 3"
+									},
+									
+									{
+										"default" : "0"
+									},
+									
+									{
+										"default" : "0"
+									}
+								],
+								"handle" : 1879099534,
+								"pb" : 99,
+								"pl" : 32,
+								"pr" : 97,
+								"pt" : 76,
+								"type" : "SE Text Entry4"
+							},
+							
+							{
+								"handle" : 1560502486,
+								"type" : "SE PatchMemory Float"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "shiny_cap.png"
+									}
+								],
+								"handle" : 38603485,
+								"pb" : 89,
+								"pl" : 32,
+								"pr" : 97,
+								"pt" : 24,
+								"type" : "Image3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "moog_knob"
+									}
+								],
+								"handle" : 1273249375,
+								"pb" : 89,
+								"pl" : 32,
+								"pr" : 97,
+								"pt" : 24,
+								"type" : "Image3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "moog_knob_L2"
+									}
+								],
+								"handle" : 797919920,
+								"pb" : 88,
+								"pl" : 32,
+								"pr" : 96,
+								"pt" : 24,
+								"type" : "SE ImageTinted XP"
+							}
+						],
+						"pb" : 193,
+						"pl" : 180,
+						"pr" : 245,
+						"pt" : 118,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 1,
+								"default" : "1"
+							},
+							
+							{
+								"default" : "1"
+							},
+							
+							{
+								"default" : "0"
+							}
+						],
+						"connections" : 
+						[
+							
+							{
+								"fMod" : 406004951,
+								"fPin" : 8,
+								"tMod" : 530751091
+							},
+							
+							{
+								"fMod" : 406004951,
+								"fPin" : 8,
+								"tMod" : 2051311434
+							},
+							
+							{
+								"fMod" : 406004951,
+								"fPin" : 9,
+								"tMod" : 329227199,
+								"tPin" : 6
+							},
+							
+							{
+								"fMod" : 406004951,
+								"fPin" : 9,
+								"tMod" : 530751091,
+								"tPin" : 3
+							},
+							
+							{
+								"fMod" : 406004951,
+								"fPin" : 9,
+								"tMod" : 2051311434,
+								"tPin" : 3
+							},
+							
+							{
+								"fMod" : 406004951,
+								"fPin" : 9,
+								"tMod" : 405195353,
+								"tPin" : 3
+							},
+							
+							{
+								"fMod" : 406004951,
+								"fPin" : 10,
+								"tMod" : 329227199,
+								"tPin" : 7
+							},
+							
+							{
+								"fMod" : 406004951,
+								"fPin" : 10,
+								"tMod" : 530751091,
+								"tPin" : 4
+							},
+							
+							{
+								"fMod" : 406004951,
+								"fPin" : 10,
+								"tMod" : 2051311434,
+								"tPin" : 4
+							},
+							
+							{
+								"fMod" : 406004951,
+								"fPin" : 10,
+								"tMod" : 405195353,
+								"tPin" : 4
+							},
+							
+							{
+								"fMod" : 406004951,
+								"fPin" : 11,
+								"tMod" : 530751091,
+								"tPin" : 6
+							},
+							
+							{
+								"fMod" : 406004951,
+								"fPin" : 11,
+								"tMod" : 2051311434,
+								"tPin" : 6
+							}
+						],
+						"handle" : 1249904774,
+						"modules" : 
+						[
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"default" : "SHAPE"
+									},
+									
+									{
+										"default" : "heading 3"
+									},
+									
+									{
+										"default" : "0"
+									},
+									
+									{
+										"default" : "0"
+									}
+								],
+								"handle" : 329227199,
+								"pb" : 99,
+								"pl" : 32,
+								"pr" : 97,
+								"pt" : 76,
+								"type" : "SE Text Entry4"
+							},
+							
+							{
+								"handle" : 406004951,
+								"type" : "SE PatchMemory Float"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "shiny_cap.png"
+									}
+								],
+								"handle" : 530751091,
+								"pb" : 89,
+								"pl" : 32,
+								"pr" : 97,
+								"pt" : 24,
+								"type" : "Image3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "moog_knob"
+									}
+								],
+								"handle" : 2051311434,
+								"pb" : 89,
+								"pl" : 32,
+								"pr" : 97,
+								"pt" : 24,
+								"type" : "Image3"
+							},
+							
+							{
+								"Pins" : 
+								[
+									
+									{
+										"Id" : 1,
+										"default" : "moog_knob_L2"
+									}
+								],
+								"handle" : 405195353,
+								"pb" : 88,
+								"pl" : 32,
+								"pr" : 96,
+								"pt" : 24,
+								"type" : "SE ImageTinted XP"
+							}
+						],
+						"pb" : 193,
+						"pl" : 265,
+						"pr" : 330,
+						"pt" : 118,
+						"type" : "Container"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"Id" : 10,
+								"parameterId" : 0
+							},
+							
+							{
+								"Id" : 13,
+								"default" : "0"
+							},
+							
+							{
+								"Id" : 14,
+								"default" : "WAVEFORM"
+							},
+							
+							{
+								"Id" : 11,
+								"default" : ""
+							}
+						],
+						"handle" : 128536028,
+						"pb" : 109,
+						"pl" : 206,
+						"pr" : 304,
+						"pt" : 69,
+						"type" : "SE List Entry"
+					},
+					
+					{
+						"Pins" : 
+						[
+							
+							{
+								"default" : "OSC 2"
+							}
+						],
+						"handle" : 1962137364,
+						"pb" : 204,
+						"pl" : 168,
+						"pr" : 349,
+						"pt" : 32,
+						"type" : "SE Panel Group"
+					}
+				],
+				"pb" : 193,
+				"pl" : 383,
+				"pr" : 564,
+				"pt" : 21,
+				"type" : "Container"
+			},
+			
+			{
+				"Pins" : 
+				[
+					
+					{
+						"Id" : 0,
+						"default" : "background"
+					},
+					
+					{
+						"Id" : 1,
+						"default" : "1"
+					}
+				],
+				"handle" : 638620697,
+				"ignoremouse" : "true",
+				"pb" : 627,
+				"pl" : 0,
+				"pr" : 859,
+				"pt" : 0,
+				"type" : "SE Plain Image"
+			}
+		],
+		"skin" : "TIDE",
+		"vst_about_text" : "",
+		"vst_nag_user" : false,
+		"width" : 859
+	}
+}

@@ -1,0 +1,12 @@
+; a segmented volume display, where each segment is either fully lit, or fully not.
+; make a single image showing all segments lit, above the same image with no segments lit.
+type bargraph
+
+; the width of the image, in pixels, followed by half of the total height of the image, in pixels.
+frame_size 28, 60
+
+; the vertical position of the first segment, followed by the height of each segment, in pixels.
+segment 1, 6
+
+; the total number of segments. not used.
+segment_count 9

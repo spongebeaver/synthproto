@@ -1,0 +1,3 @@
+type lines
+frame_size 27, 27	// Size of corners
+; line_end_length 5	// length of line end-cap. Defaults to 5.

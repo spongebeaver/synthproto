@@ -1,0 +1,215 @@
+<?xml version="1.0" ?>
+<Controller>
+  <PatchManager>
+    <Parameters>
+      <Parameter Handle="2001744023" HostControl="49" Private="1" Name="" ValueType="10">
+        <patch-list>
+          <s></s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="650966413" Module="85519557" ignoreProgramChange="1" Private="1" persistant="0" Name="" RangeMinimum="-40" RangeMaximum="0" />
+      <Parameter Handle="545701173" Module="159037468" MIDI="100663296" HostControl="15" ignoreProgramChange="1" Private="1" persistant="0" Name="Bender" RangeMinimum="-1" RangeMaximum="1" />
+      <Parameter Handle="1659516791" Module="159037468" MIDI="50331648" HostControl="42" ignoreProgramChange="1" Private="1" Name="BenderRange" RangeMaximum="127.992">
+        <patch-list>
+          <s>2</s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="1632132808" Module="159037468" MIDI="117440512" HostControl="17" ignoreProgramChange="1" Private="1" persistant="0" Name="Channel Pressure" RangeMaximum="1" />
+      <Parameter Handle="506907781" Module="159037468" MIDI="33554496" HostControl="16" ignoreProgramChange="1" Private="1" persistant="0" Name="HoldPedal" />
+      <Parameter Handle="64401652" Module="159037468" HostControl="21" ignoreProgramChange="1" Private="1" Name="Polyphony" ValueType="8" RangeMinimum="1" RangeMaximum="128">
+        <patch-list>
+          <s>6</s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="1973035814" Module="159037468" MIDI="33554437" HostControl="40" ignoreProgramChange="1" Private="1" Name="Portamento">
+        <patch-list>
+          <s>0</s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="2129613449" HostControl="4" ignoreProgramChange="1" Private="1" Name="Program Name" ValueType="1">
+        <patch-list>
+          <s></s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="1323306483" Module="159037468" HostControl="22" ignoreProgramChange="1" Private="1" Name="ReserveVoices" ValueType="8" RangeMaximum="128">
+        <patch-list>
+          <s>3</s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="0" isPolyphonic="1" Module="159037468" VoiceCount="128" MIDI="419430400" HostControl="12" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Active" />
+      <Parameter Handle="232617444" isPolyphonic="1" Module="159037468" VoiceCount="128" MIDI="385875968" HostControl="10" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Aftertouch" />
+      <Parameter Handle="2097701126" isPolyphonic="1" Module="159037468" VoiceCount="128" MIDI="520224768" HostControl="31" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Bender" RangeMinimum="-10" />
+      <Parameter Handle="366944620" isPolyphonic="1" isPolyphonicGate="1" Module="159037468" VoiceCount="128" MIDI="335544320" HostControl="6" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Gate" />
+      <Parameter Handle="516822733" isPolyphonic="1" Module="159037468" VoiceCount="128" MIDI="301989888" HostControl="41" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/GlideStartPitch" />
+      <Parameter Handle="524436679" isPolyphonic="1" Module="159037468" VoiceCount="128" MIDI="318767104" HostControl="7" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Pitch" />
+      <Parameter Handle="338631564" isPolyphonic="1" Module="159037468" VoiceCount="128" MIDI="402653184" HostControl="5" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/Trigger" />
+      <Parameter Handle="1586188527" isPolyphonic="1" Module="159037468" VoiceCount="128" MIDI="352321536" HostControl="8" ignoreProgramChange="1" Private="1" persistant="0" Name="Voice/VelocityKeyOn" />
+      <Parameter Handle="680396935" Module="159037468" HostControl="14" ignoreProgramChange="1" Private="1" Name="VoiceAllocationMode" ValueType="8" RangeMinimum="1" RangeMaximum="128">
+        <patch-list>
+          <s>768</s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="1234726871" Module="13327" Index="0" Name="Knob" RangeMaximum="0.5">
+        <patch-list>
+          <s>0.379858</s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="482351405" Module="128536028" Index="1" Name="Waveform" ValueType="8" MetaData="Sine, Saw, Ramp, Triangle, Pulse,White Noise,Pink Noise">
+        <patch-list>
+          <s>1</s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="1153379119" Module="406004951" Index="2" Name="shape">
+        <patch-list>
+          <s>10</s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="1846848763" Module="1560502486" Index="3" Name="mix">
+        <patch-list>
+          <s>10</s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="1917432062" Module="1197032800" Index="11" Name="Knob" RangeMaximum="7">
+        <patch-list>
+          <s>6.32079</s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="1998026376" Module="348653182" Index="12" Name="RES" RangeMaximum="15">
+        <patch-list>
+          <s>6.36</s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="350402994" Module="299750493" Index="13" Name="Waveform" ValueType="8" MetaData="Sine, Saw, Ramp, Triangle, Pulse,White Noise,Pink Noise">
+        <patch-list>
+          <s>1</s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="1647186508" Module="490457349" Index="14" Name="mix">
+        <patch-list>
+          <s>10</s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="721719602" Module="1304659790" Index="15" Name="shape">
+        <patch-list>
+          <s>0</s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="684739606" Module="2082357" Index="20" Name="EG" RangeMaximum="1">
+        <patch-list>
+          <s>1</s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="270426685" Module="945644027" Index="21" Name="ADSR2 Attack">
+        <patch-list>
+          <s>0</s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="497440663" Module="972875429" Index="22" Name="ADSR2 Attack">
+        <patch-list>
+          <s>0</s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="1231620693" Module="1783774698" Index="23" Name="ADSR2 Decay">
+        <patch-list>
+          <s>10</s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="2078959138" Module="1228581133" Index="24" Name="ADSR2 Decay">
+        <patch-list>
+          <s>10</s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="372319983" Module="1525726088" Index="25" Name="ADSR2 Release">
+        <patch-list>
+          <s>0</s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="2057504435" Module="1070292134" Index="26" Name="ADSR2 Release">
+        <patch-list>
+          <s>0</s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="728651069" Module="1360905169" Index="27" Name="ADSR2 Sustain">
+        <patch-list>
+          <s>10</s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="2022049461" Module="625188255" Index="28" Name="ADSR2 Sustain">
+        <patch-list>
+          <s>10</s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="641621411" Module="1023" Index="29" Name="Knob" RangeMinimum="-10" RangeMaximum="3">
+        <patch-list>
+          <s>-1.21029</s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="1478758837" Module="808652049" Index="30" Name="Knob">
+        <patch-list>
+          <s>3.35722</s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="1802491953" Module="386638673" Index="31" Name="WAVEFORM" ValueType="8" MetaData="Sine, Saw, Ramp, Triangle, Pulse,White Noise,Pink Noise">
+        <patch-list>
+          <s>0</s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="518993148" Module="935575062" Index="34" Name="Multiply Input 2" RangeMaximum="0.15">
+        <patch-list>
+          <s>0.0138</s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="1116616831" Module="677483718" Index="35" Name="Multiply Input 2">
+        <patch-list>
+          <s>0</s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="110590590" Module="2043945981" Index="36" Name="Multiply Input 2">
+        <patch-list>
+          <s>0</s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="1821507095" Module="1475254730" Index="37" Name="Multiply Input 2" RangeMaximum="1">
+        <patch-list>
+          <s>0.0880002</s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="387698568" Module="1579527415" Index="39" Name="Octave" ValueType="8" MetaData="-2,-1,0,1,2,3">
+        <patch-list>
+          <s>2</s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="1259999162" Module="373376609" Index="40" Name="Subtract Input 1" RangeMinimum="-0.083" RangeMaximum="0.083">
+        <patch-list>
+          <s>0.00274551</s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="81333734" Module="82298503" Index="42" Name="Octave" ValueType="8" MetaData="-2,-1,0,1,2,3">
+        <patch-list>
+          <s>1</s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="1216883875" Module="1385582658" Index="43" Name="Subtract Input 1" RangeMinimum="-0.083" RangeMaximum="0.083">
+        <patch-list>
+          <s>0.0135658</s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="422202077" Module="545659892" Index="44" Name="Knob" RangeMinimum="-0.05" RangeMaximum="0.05">
+        <patch-list>
+          <s>-0.00025893</s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="1421273146" Module="615959857" Index="45" Name="Tune Choice" ValueType="8" MetaData="0,1,2,3,4,5,6,7,8,9,10,11">
+        <patch-list>
+          <s>7</s>
+        </patch-list>
+      </Parameter>
+      <Parameter Handle="1670514894" Module="1560987071" Index="46" Name="Tune Choice" ValueType="8" MetaData="0,1,2,3,4,5,6,7,8,9,10,11">
+        <patch-list>
+          <s>0</s>
+        </patch-list>
+      </Parameter>
+    </Parameters>
+  </PatchManager>
+  <ChildControllers />
+</Controller>

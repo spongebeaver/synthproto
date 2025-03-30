@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<Factory>
+  <Vendor Email="no-one@nobody.com" Url="http://www.steinberg.com" Name="SynthEdit" />
+  <Plugins>
+    <Plugin subCategories="Instrument|Synth" macCategory="aumu" ProcessorId="{3248C6ED-986B-4976-B798-BFA853F9F348}" ControllerId="{2FBBB83C-2858-4481-A856-E909B6DD449F}" Name="synthprotofinal" ManufacturerId="DMRY" PluginID="1345416002" Version="1.0.0.0" latencyCompensation="2" numMidiIn="1" outputNames="Audio Out" outputCount="1" />
+  </Plugins>
+</Factory>
