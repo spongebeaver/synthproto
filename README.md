@@ -5,4 +5,5 @@ Lai skatītu visu kodu, jums jālejupielādē programma SynthEdit:
 3. Lejupielādējiet programmu un noklikšķiniet uz faila "SYNTH.synthedit"
 
 Lai skatītu tikai programu, noklikšķiniet uz synthprotofinal.exe šajā direktorijā:
+
 synthprotofinal.vst3\Contents\x86_64-win\synthprotofinal.exe
